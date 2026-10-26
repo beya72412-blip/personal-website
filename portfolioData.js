@@ -1,0 +1,120 @@
+export const defaultPortfolio = {
+  profile: {
+    name: 'Beyene',
+    title: 'Full-Stack Web Developer / Computer Science Student',
+    bio: 'Passionate developer specializing in modern web applications and full-stack development using the MERN stack (MongoDB, Express, React, Node.js). Driven by creating clean, efficient, and user-friendly digital experiences.',
+    email: 'beya72412@gmail.com',
+    github: 'https://github.com/beya72412-blip',
+    location: 'Ethiopia',
+    availability: 'Available for freelance and collaboration',
+  },
+  nav: [
+    { label: 'About', href: '#about' },
+    { label: 'Skills', href: '#skills' },
+    { label: 'Projects', href: '#projects' },
+    { label: 'Experience', href: '#experience' },
+    { label: 'Contact', href: '#contact' },
+  ],
+  hero: {
+    roles: ['Full-Stack Developer', 'MERN Specialist', 'Problem Solver', 'Creative Builder'],
+    badge: 'Available for freelance and collaboration',
+  },
+  socials: [
+    { label: 'GitHub', href: 'https://github.com/beya72412-blip', icon: 'GH' },
+    { label: 'Email', href: 'mailto:beya72412@gmail.com', icon: '✉' },
+    { label: 'LinkedIn', href: '#contact', icon: 'in' },
+  ],
+  highlights: [
+    { value: '10+', label: 'Projects' },
+    { value: '2+', label: 'Years learning' },
+    { value: '100%', label: 'Driven' },
+    { value: 'MERN', label: 'Focused stack' },
+  ],
+  stats: [
+    { title: 'Focus', value: 'MERN Stack' },
+    { title: 'Specialty', value: 'Full-Stack Apps' },
+    { title: 'Mindset', value: 'Clean & Scalable' },
+    { title: 'Approach', value: 'User-Centered' },
+  ],
+  about: {
+    heading: 'Engineering digital solutions with clarity and purpose.',
+    paragraphs: [
+      "I'm Beyene, a Computer Science student and full-stack web developer with a strong interest in building modern, reliable, and high-performing digital products. I specialize in the MERN stack and enjoy transforming ideas into clean, efficient web experiences.",
+      'My focus is on practical problem-solving, intuitive user interfaces, and scalable application architecture. I like building systems that are not only functional but also thoughtful, maintainable, and enjoyable to use.',
+    ],
+    miniStats: [
+      { label: 'Core Stack', value: 'MERN' },
+      { label: 'Student', value: 'CS' },
+      { label: 'Driven', value: 'UX' },
+    ],
+  },
+  skills: [
+    { title: 'Front-End', items: ['React', 'JavaScript', 'HTML5', 'CSS3', 'Responsive UI'] },
+    { title: 'Back-End', items: ['Node.js', 'Express.js', 'REST APIs', 'Authentication'] },
+    { title: 'Database', items: ['MongoDB', 'Mongoose', 'Schema Design', 'Data Modeling'] },
+    { title: 'Tools / VCS', items: ['Git', 'GitHub', 'Postman', 'npm', 'Debugging'] },
+  ],
+  projects: [
+    {
+      title: 'CampusConnect',
+      category: 'MERN',
+      description: 'A community-first student networking platform for collaboration, academic support, events, and engagement across campus communities.',
+      stack: ['React', 'Node.js', 'Express', 'MongoDB', 'JWT'],
+      live: '#',
+      code: 'https://github.com/beya72412-blip',
+    },
+    {
+      title: 'ShopSphere',
+      category: 'Full Stack',
+      description: 'An ecommerce dashboard with modern product browsing, cart interactions, and a streamlined checkout experience for online shoppers.',
+      stack: ['React', 'Express', 'MongoDB', 'REST API'],
+      live: '#',
+      code: 'https://github.com/beya72412-blip',
+    },
+    {
+      title: 'TaskFlow Pro',
+      category: 'MERN',
+      description: 'A collaborative productivity workspace for planning tasks, tracking project progress, and managing delivery pipelines in real time.',
+      stack: ['React', 'Node.js', 'MongoDB', 'Charts'],
+      live: '#',
+      code: 'https://github.com/beya72412-blip',
+    },
+    {
+      title: 'Portfolio Studio',
+      category: 'Frontend',
+      description: 'A polished portfolio template concept focused on elegant presentation, clear messaging, and responsive creative layouts.',
+      stack: ['React', 'CSS3', 'JavaScript'],
+      live: '#',
+      code: 'https://github.com/beya72412-blip',
+    },
+  ],
+  experience: [
+    {
+      period: '2024 - Present',
+      title: 'Computer Science Student',
+      text: 'Building a strong foundation in software engineering, algorithms, data structures, and modern full-stack application design.',
+    },
+    {
+      period: '2025',
+      title: 'MERN Stack Developer',
+      text: 'Developing real-world web applications with React, Express, MongoDB, and API-driven architecture to solve everyday product challenges.',
+    },
+    {
+      period: '2024',
+      title: 'Portfolio & Project Development',
+      text: 'Designing and implementing polished interfaces, practical features, and user-centered experiences with clean front-end and back-end logic.',
+    },
+    {
+      period: '2023',
+      title: 'Web Development Foundations',
+      text: 'Started with JavaScript, HTML, CSS, Git, and UI fundamentals, then expanded into modern frameworks and full-stack workflows.',
+    },
+  ],
+  contact: {
+    email: 'beya72412@gmail.com',
+    github: 'https://github.com/beya72412-blip',
+    githubLabel: 'github.com/beya72412-blip',
+    heading: "Let's build something meaningful.",
+    description: "I'm open to freelance opportunities, project collaborations, and exciting full-stack development work.",
+  },
+};
