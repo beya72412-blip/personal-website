@@ -1,0 +1,19 @@
+Beyene
+Full-Stack Web Developer / Computer Science Student
+
+Email: beya72412@gmail.com
+Website: https://github.com/beya72412-blip
+GitHub: https://github.com/beya72412-blip
+
+Skills:
+- React
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- HTML5 / CSS3
+- Git / GitHub
+- REST APIs
+
+Summary:
+Passionate developer specializing in modern web applications and full-stack development using the MERN stack. Driven by creating clean, efficient, and user-friendly digital experiences.
